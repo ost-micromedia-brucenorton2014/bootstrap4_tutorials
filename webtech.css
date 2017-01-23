@@ -1,6 +1,8 @@
 @charset "UTF-8";
 /* CSS Document */
-
+body {
+  padding-top: 2rem;
+}
 .col-sm-8 {
     background-color: #ddd;
 }
