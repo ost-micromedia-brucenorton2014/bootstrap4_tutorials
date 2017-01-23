@@ -1,8 +1,12 @@
 # bootstrap4_tutorials
 Files to accompany video tutorials
 
-Here's the link:
+Links to the pages:
+Parts 1 - 4
 http://micromediaweb.com/home/2017_001/
+
+Part 5
+http://micromediaweb.com/home/2017_001/jumbotron.html
 
 
 Video Playlist
